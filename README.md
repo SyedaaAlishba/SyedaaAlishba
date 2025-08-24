@@ -69,8 +69,6 @@
 
 <!-- Snake animation will work after you set up GitHub Actions -->
 ![Snake animation](https://raw.githubusercontent.com/SyedaaAlishba/SyedaaAlishba/output/snake.svg)
-# 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/SyedaaAlishba/SyedaaAlishba/output/snake.svg)
----
+
 
 <p align="center"><i>✨ “Code is like art – the cleaner it is, the better it feels.” ✨</i></p>
