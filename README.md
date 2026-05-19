@@ -7,7 +7,6 @@
 </p>
 
 
----
 
 ## ✨ GitHub Stats
 
@@ -52,25 +51,7 @@ Interests:
   
 🛠️ Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,mongodb,spring,git,github,vscode"/> </div>
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SyedaaAlishba&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaaAlishba&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaaAlishba&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -83,7 +64,6 @@ Interests:
 | 📖 [Library System](https://github.com/SyedaaAlishba/LMS/blob/main/LMS/src/Main.java) | OOP-based library management system                                            |
 | 🧮 [BMI Calculator](https://github.com/SyedaaAlishba/BMI-_Calculator)                 | Simple Java logic-based health calculator                                      |
 
----
 
 ## 📈 Current Focus
 
@@ -97,7 +77,6 @@ Interests:
 
 </p>
 
----
 
 ## 🌐 Connect With Me
 
