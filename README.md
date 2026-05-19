@@ -35,6 +35,7 @@
 </div>
 
 Education: Currently pursuing BSCS from UBIT (University of Karachi)
+
 Focus: Backend Development + DSA
 
 Currently Learning:
