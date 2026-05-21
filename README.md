@@ -19,9 +19,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaaAlishba&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedaaAlishba&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
 
 ---
 
@@ -49,7 +46,7 @@ Interests:
   - Automation
   - Real World Projects
   
-🛠️ Tech Stack
+<h3> 🛠️ Tech Stack </h3>
 <div align="center"> <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,mongodb,spring,git,github,vscode"/> </div>
 
 
