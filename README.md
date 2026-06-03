@@ -1,6 +1,11 @@
-<h1 align="center">Hey 👋 I'm Syeda Alishba</h1>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Syeda%20Alishba&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h3 align="center">💻 Java Backend Developer | 🧠 DSA Enthusiast | 🚀 Building Scalable Systems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;DSA+Enthusiast;Spring+Boot+Learner;System+Design+Explorer;Building+Scalable+Systems&center=true&width=500&height=50">
+</p>  
+
 
 <p align="center">
   Passionate about backend development, problem solving, and building real-world systems with clean architecture.
@@ -101,5 +106,4 @@ Interests:
 
 <p align="center">
   <i>"Every project teaches something no tutorial can."</i>
-</p>
-
+</p> 
